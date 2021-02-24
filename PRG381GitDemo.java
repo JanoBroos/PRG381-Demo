@@ -4,6 +4,10 @@ public class PRG381GitDemo {
     public static void main(String[] args) {
         System.out.println("Git Boi");
 
-        //Quick Push
+        Murder();
+    }
+
+    void MURDER(){
+        //Kill
     }
 }
