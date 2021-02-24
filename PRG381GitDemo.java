@@ -4,10 +4,11 @@ public class PRG381GitDemo {
     public static void main(String[] args) {
         System.out.println("Git Boi");
 
-        Murder();
+        MURDER();
+        //Hehehehhe in in your space.
     }
 
-    void MURDER(){
+    public static void MURDER(){
         System.out.println("Kinda sus, vote 'em out");
     }
 }
