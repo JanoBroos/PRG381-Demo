@@ -8,6 +8,6 @@ public class PRG381GitDemo {
     }
 
     void MURDER(){
-        System.out.println("Kinda sus");
+        System.out.println("Kinda sus, vote 'em out");
     }
 }
